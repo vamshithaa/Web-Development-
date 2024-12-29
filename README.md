@@ -1,8 +1,9 @@
 
-# Web-Development-
-
-## Description
-This repository contains various web development projects and exercises. It includes examples of HTML, CSS, JavaScript, and other web technologies.
+**Web-Development-**
+<br>
+**Description**
+<br>
+This repository contains various web development projects and exercises. It includes examples of HTML, CSS, JavaScript, and other web technologies.<br>
 
 Table of Contents
 1.projects
