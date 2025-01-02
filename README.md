@@ -22,7 +22,7 @@
     <br>
     <h2>Projects</h2>
     <ul>
-        <li>1. Simple Calculator
+        <li>1. Simple Calculator (cal.html)
             <p>A Basic calculator that performs addition, subtraction, multiplication, and division.</p>
             <ul>
                 <li>Status: Completed</li>
@@ -30,7 +30,15 @@
                 <li>Path: README.md</li>
             </ul>
         </li>
-        <li>2. Elderly Care Management System (Coming soon)
+        <li>2.VowelFinder and NumberFlip(web.html)
+            <p>This is a simple yet interactive tool that reverses numbers and helps you locate the leftmost vowel in any given text. </p>
+            <ul>
+                <li>Status:Completed</li>
+                <li>Technologies:HTML,CSS</li>
+                <li>Path:README.md</li>
+            </ul>
+        </li>
+        <li>3. Elderly Care Management System (Coming soon)
             <p>A website to help manage elderly care with features like appointment scheduling, meditation reminders, and more.</p>
             <ul>
                 <li>Status: In Progress</li>
