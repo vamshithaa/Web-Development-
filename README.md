@@ -30,12 +30,12 @@
                 <li>Path: README.md</li>
             </ul>
         </li>
-        <li>2.VowelFinder and NumberFlip(web.html)
+        <li>2.VowelFinder and NumberFlip (web.html)
             <p>This is a simple yet interactive tool that reverses numbers and helps you locate the leftmost vowel in any given text. </p>
             <ul>
-                <li>Status:Completed</li>
-                <li>Technologies:HTML,CSS</li>
-                <li>Path:README.md</li>
+                <li>Status: Completed</li>
+                <li>Technologies: HTML,CSS</li>
+                <li>Path: README.md</li>
             </ul>
         </li>
         <li>3. Elderly Care Management System (Coming soon)
